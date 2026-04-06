@@ -1,0 +1,43 @@
+running egg_info
+creating ../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info
+writing ../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/PKG-INFO
+writing dependency_links to ../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/dependency_links.txt
+writing entry points to ../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/entry_points.txt
+writing requirements to ../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/requires.txt
+writing top-level names to ../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/top_level.txt
+writing manifest file '../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/SOURCES.txt'
+reading manifest file '../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/SOURCES.txt'
+writing manifest file '../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build
+creating /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib
+creating /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg
+copying super_motorikin_study_pkg/__init__.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg
+creating /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+copying super_motorikin_study_pkg/scripts/turtle_carrot_tf_broadcaster.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+copying super_motorikin_study_pkg/scripts/overflow_listener.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+copying super_motorikin_study_pkg/scripts/static_tf_broadcaster.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+copying super_motorikin_study_pkg/scripts/even_number_publisher.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+copying super_motorikin_study_pkg/scripts/time_printer.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+copying super_motorikin_study_pkg/scripts/turtle_tf_broadcaster.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+running install
+running install_lib
+creating /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg
+creating /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts/turtle_carrot_tf_broadcaster.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts/overflow_listener.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts/static_tf_broadcaster.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts/even_number_publisher.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts/time_printer.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts/turtle_tf_broadcaster.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/__init__.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg
+byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts/turtle_carrot_tf_broadcaster.py to turtle_carrot_tf_broadcaster.cpython-312.pyc
+byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts/overflow_listener.py to overflow_listener.cpython-312.pyc
+byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts/static_tf_broadcaster.py to static_tf_broadcaster.cpython-312.pyc
+byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts/even_number_publisher.py to even_number_publisher.cpython-312.pyc
+byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts/time_printer.py to time_printer.cpython-312.pyc
+byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts/turtle_tf_broadcaster.py to turtle_tf_broadcaster.cpython-312.pyc
+byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/share/super_motorikin_study_pkg/launch

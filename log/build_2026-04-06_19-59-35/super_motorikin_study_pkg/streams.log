@@ -1,0 +1,46 @@
+[0.898s] Invoking command in '/home/bar1s/ros2_ws/src/super_motorikin_study_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/super_motorikin_study_pkg build --build-base /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build install --record /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/install.log --single-version-externally-managed install_data
+[1.198s] running egg_info
+[1.198s] creating ../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info
+[1.222s] writing ../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/PKG-INFO
+[1.223s] writing dependency_links to ../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/dependency_links.txt
+[1.223s] writing entry points to ../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/entry_points.txt
+[1.223s] writing requirements to ../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/requires.txt
+[1.223s] writing top-level names to ../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/top_level.txt
+[1.223s] writing manifest file '../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/SOURCES.txt'
+[1.274s] reading manifest file '../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/SOURCES.txt'
+[1.275s] writing manifest file '../build/super_motorikin_study_pkg/super_motorikin_study_pkg.egg-info/SOURCES.txt'
+[1.275s] running build
+[1.275s] running build_py
+[1.275s] creating /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build
+[1.275s] creating /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib
+[1.275s] creating /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg
+[1.275s] copying super_motorikin_study_pkg/__init__.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg
+[1.275s] creating /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+[1.275s] copying super_motorikin_study_pkg/scripts/turtle_carrot_tf_broadcaster.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+[1.276s] copying super_motorikin_study_pkg/scripts/overflow_listener.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+[1.276s] copying super_motorikin_study_pkg/scripts/static_tf_broadcaster.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+[1.276s] copying super_motorikin_study_pkg/scripts/even_number_publisher.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+[1.276s] copying super_motorikin_study_pkg/scripts/time_printer.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+[1.276s] copying super_motorikin_study_pkg/scripts/turtle_tf_broadcaster.py -> /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts
+[1.277s] running install
+[1.282s] running install_lib
+[1.307s] creating /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg
+[1.307s] creating /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+[1.307s] copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts/turtle_carrot_tf_broadcaster.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+[1.308s] copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts/overflow_listener.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+[1.308s] copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts/static_tf_broadcaster.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+[1.308s] copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts/even_number_publisher.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+[1.308s] copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts/time_printer.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+[1.308s] copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/scripts/turtle_tf_broadcaster.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts
+[1.308s] copying /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build/lib/super_motorikin_study_pkg/__init__.py -> /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg
+[1.309s] byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts/turtle_carrot_tf_broadcaster.py to turtle_carrot_tf_broadcaster.cpython-312.pyc
+[1.309s] byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts/overflow_listener.py to overflow_listener.cpython-312.pyc
+[1.310s] byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts/static_tf_broadcaster.py to static_tf_broadcaster.cpython-312.pyc
+[1.310s] byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts/even_number_publisher.py to even_number_publisher.cpython-312.pyc
+[1.311s] byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts/time_printer.py to time_printer.cpython-312.pyc
+[1.311s] byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/scripts/turtle_tf_broadcaster.py to turtle_tf_broadcaster.cpython-312.pyc
+[1.312s] byte-compiling /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages/super_motorikin_study_pkg/__init__.py to __init__.cpython-312.pyc
+[1.312s] running install_data
+[1.312s] creating /home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/share/super_motorikin_study_pkg/launch
+[1.312s] error: can't copy 'launch/my_first_launch.py': doesn't exist or not a regular file
+[1.332s] Invoked command in '/home/bar1s/ros2_ws/src/super_motorikin_study_pkg' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bar1s/ros2_ws/src/install/super_motorikin_study_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/super_motorikin_study_pkg build --build-base /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/build install --record /home/bar1s/ros2_ws/src/build/super_motorikin_study_pkg/install.log --single-version-externally-managed install_data
